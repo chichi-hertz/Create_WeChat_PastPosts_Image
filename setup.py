@@ -102,7 +102,7 @@ def main():
         title = get_article_title(url)
         download_image(re.findall('msg_cdn_url = "(.*?)"', requests.get(url).text, re.I | re.S | re.M)[0], "temp.jpg")
         create_footer_image(title, "temp.jpg")
-        messagebox.showinfo("提示", "微信尾部往期精选图已生成！")
+        messagebox.showinfo("提示", "图片已制作完成，保存在同一级目录下")
     except Exception as e:
         messagebox.showerror("错误", str(e))
 
