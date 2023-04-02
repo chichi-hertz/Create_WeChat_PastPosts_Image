@@ -4,15 +4,15 @@
 
   原图：
 
-  ![image-20230402201226730](C:\Users\pdh\AppData\Roaming\Typora\typora-user-images\image-20230402201226730.png)
+  ![image-20230402201226730](https://github.com/chichi-hertz/Create_WeChat_PastPosts_Image/blob/master/img/image-20230402201226730.png)
 
   使用效果：
 
-  <img src="D:\weixintest\往期推荐完成_B站出大新闻了！.png" alt="往期推荐完成_B站出大新闻了！" style="zoom:50%;" />
+  ![%E5%BE%80%E6%9C%9F%E6%8E%A8%E8%8D%90%E5%AE%8C%E6%88%90_B%E7%AB%99%E5%87%BA%E5%A4%A7%E6%96%B0%E9%97%BB%E4%BA%86%EF%BC%81.png](https://github.com/chichi-hertz/Create_WeChat_PastPosts_Image/blob/master/img/%E5%BE%80%E6%9C%9F%E6%8E%A8%E8%8D%90%E5%AE%8C%E6%88%90_B%E7%AB%99%E5%87%BA%E5%A4%A7%E6%96%B0%E9%97%BB%E4%BA%86%EF%BC%81.png)
 
   还有一种效果，请参考http://t.csdn.cn/0wSRY
 
-  ![image-20230402201354823](C:\Users\pdh\AppData\Roaming\Typora\typora-user-images\image-20230402201354823.png)
+  ![image-20230402201354823](https://github.com/chichi-hertz/Create_WeChat_PastPosts_Image/blob/master/img/image-20230402201354823.png)
 
   ## 安装依赖
 
